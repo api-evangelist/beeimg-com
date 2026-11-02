@@ -1,4 +1,4 @@
-# beeimg-com
+# BeeIMG
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,111 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-beeimg-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://beeimg.com/
+BeeIMG is a simple, fast, free unlimited image hosting and sharing solution created to fill up your image sharing needs. with real time image views and bandwidth stats. Most image hosts stop counting the moment someone embeds your image elsewhere. BeeIMG does not. Our custom-built serving layer counts every view at the network edge — whether someone visits your link directly or embeds it on a forum, blog, or social site.
+
+**Areas:** Image Hosting · Free · Unlimited · Sharing · Sri Lanka
+
+## BeeIMG on APIs.io
+
+Everything profiled for BeeIMG is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/beeimg-com/](https://apis.io/providers/beeimg-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [BeeIMG API](https://apis.io/apis/beeimg-com/beeimg-api/) — Image hosting API for uploading and managing images.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Beeimg Com Authentication](https://apis.io/security/beeimg-com/beeimg-com-authentication/)
+- [Beeimg Com Domain Security](https://apis.io/security/beeimg-com/beeimg-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Beeimg Com Scopes](https://apis.io/scopes/beeimg-com/beeimg-com-scopes/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Beeimg Com Plans Pricing](https://apis.io/plans/beeimg-com/beeimg-com-plans-pricing/)
+
+#### Rate limits (1)
+
+Published request limits.
+
+- [Beeimg Com Rate Limits](https://apis.io/rate-limits/beeimg-com/beeimg-com-rate-limits/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://beeimg.com/)
+- [Documentation](https://beeimg.com/api/)
+- [API reference](https://beeimg.com/api/)
+- [Blog](https://beeimg.com/blog)
+- [Terms of service](https://beeimg.com/tos)
+- [Privacy policy](https://beeimg.com/privacy)
+- [GitHub](https://github.com/BeeIMG)
+
+## API Evangelist rating
+
+**Kin Score 29.7** — thin · rubric 0.26.0 · scored 2026-11-02
+
+| Facet | Score |
+|---|---|
+| Discoverability | 56.7 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 24.2 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 62.6 |
+
+**Agent readiness 13.9** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | documented (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | documented (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/beeimg-com/](https://apis.io/providers/beeimg-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for BeeIMG: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/beeimg-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
